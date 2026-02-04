@@ -1,5 +1,5 @@
 /**
- * @typedef {Object} FoodSuitability
+ *  @typedef {Object} FoodSuitability
  * @property {string} id - Unique suitability record ID
  * @property {string} foodId - Food item ID
  * @property {string} conditionId - Condition ID (anemia, diabetes, hypertension, cholesterol)
